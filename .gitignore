@@ -1,0 +1,7 @@
+node_modules
+eslint.config.mjs
+package-lock.json
+package.json
+promp_console
+conditionals
+setting_up_p5
