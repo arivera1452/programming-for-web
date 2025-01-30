@@ -5,7 +5,7 @@
 // let = variables that do change
 
 // Arrays
-// how to mak arrays
+// how to make arrays
 // let cars = ["Honda", "Hyundai", "Ford", "Chevy"];
 // let luckyNumbers = [7, 13, 22];
 // let comboArray = [7, "Honda", true];
