@@ -2,3 +2,6 @@ node_modules
 prompt_console
 conditionals
 setting_up_p5
+eslint.config.mjs
+package-lock.json
+package.json
