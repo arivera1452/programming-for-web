@@ -30,7 +30,7 @@
 // const firstItem = cars.shift();
 // console.log("cars after shift", cars, firstItem);
 
-// lenth will return the number of items in the array
+// length will return the number of items in the array
 // console.log("I have " + cars.length + " cars");
 // trick - array.length minus 1 will access last item
 // console.log(cars[cars.length -1]);
