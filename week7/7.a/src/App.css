@@ -1,0 +1,38 @@
+.commander-table {
+    width: 100%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: white;
+}
+.commander-table thead, .commander-table tr {
+    border: 2px solid black;
+}
+.commander-table td, .commander-table th {
+    border: 2px solid black;
+    text-align: center;
+}
+.commander-table img {
+    width: 200px;
+}
+.commander-name {
+    font-weight: bold;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 1000px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(179, 169, 169);
+}
+
+h1 {
+    display: inline-block;
+    background-color: orange;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+img {
+    margin: 5px;
+}
