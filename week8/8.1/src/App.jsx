@@ -3,7 +3,8 @@ import "./App.css"
 // hook
 import { useState } from "react";
 
-const camelidImages = ["./llama.jpg", "./alpaca.jpg"];
+const llama = "./llama.jpg";
+const alpaca = "./alpaca.jpg";
 
 function App() {
   const [camelid, setCamelid] = useState(0);
@@ -14,15 +15,15 @@ function App() {
    
     <div>
       <button onClick={() => {
-        setCamelid(camelid);
+        setCamelid(llama);
       }}>Llama</button>
     </div>
     <div>
       <button onClick={() => {
-        setCamelid(camelid + 1);
+        setCamelid(alpaca);
       }}>Alpaca</button>
     </div>
-    <img src={camelidImages} alt="camelid" />
+    <img src={camelid} alt="Select your favorite!" />
     </>
   )
 }
