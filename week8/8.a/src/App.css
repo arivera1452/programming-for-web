@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(143, 128, 229);
+    color: antiquewhite;
+    font-family: monospace;
+}
+
+.collection {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.page {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
