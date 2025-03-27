@@ -2,11 +2,11 @@ import './App.css';
 import { useForm } from "react-hook-form";
 
 function App() {
-  const { register, handleSubmit } = useForm();
+  const { register, handleSubmit, formState: { errors } } = useForm();
   function getFormData(data) {
     console.log("form data", data);
   }
-
+  console.log("errors", errors)
   return (
     <div>
       <h1>Alpaca Fan Club</h1>
@@ -15,18 +15,20 @@ function App() {
           <legend>Personal Data</legend>
           <div className='form-group'>
             <label htmlFor="firstName">First Name</label>
-            <input type="text" id='firstName' {...register("firstName")} />
+            <input type="text" id='firstName' className='required' {...register("firstName", {required: true})} />
+            {errors.firstName ? (<p className='error'>You need a first name</p>): <></>}
           </div>
           <div className="form-group">
-            <label>Last Name</label>
-            <input {...register("lastName")} />
+            <label htmlFor='lastName'>Last Name</label>
+            <input type='text' id='lastName' {...register("lastName", {required: true})} />
+            {errors.lastName ? (<p className='error'>You need a last name</p>): <></>}
           </div>
           <div className='form-group'>
             <label htmlFor="streetAddress">Street Address</label>
             <input type="text" id='streetAddress' {...register("streetAddress")} />
           </div>
           <div className="form-group">
-            <label htmlFor="state">State</label>
+            <label htmlFor="state"></label>
             <select id='state' {...register("state")}>
               <option value="MN">Minnesota</option>
               <option value="MT">Montana</option>
