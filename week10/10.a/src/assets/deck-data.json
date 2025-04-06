@@ -1,0 +1,94 @@
+[
+    {
+      "commander": "Elesh Norn // The Argent Etchings",
+      "colors": [
+        "white"
+      ],
+      "theme": "Phyrexians",
+      "nickname": "Elesh Mom",
+      "identity": "Mono-white",
+      "playstyle": "This deck wants to pump out nontoken and token phyrexians to sacrifice to Elesh Norn in order to trasnform her into the Arget Etchings. Once flipped I want to swing out with my tokens and protect my game plan in order to hit the last chapter of the Argent Etchings to wipe the board of everything, but phyrexians. Then finish the game with combat damage",
+      "image": "./norn.jpg",
+      "id": "1"
+    },
+    {
+      "commander": "Aurelia, The Law Above",
+      "colors": [
+        "white",
+        "red"
+      ],
+      "theme": "Forced Combat",
+      "nickname": "Aurelia's Fury",
+      "identity": "Boros",
+      "playstyle":"This deck includes every printing of Aurelia in honor of my daughter Orelia. They are both fiery redheads! This deck wants to swing out and make everyone at the table swing with goad and forced combat effects. It also has a package of aikido style effects like Deflecting Palm and Comeuppance just incase I get attacked I can send the damage right back at the attacker. Alongside some pillowfort effects to encourage people to swing everywhere but at me.",
+      "image": "./aurelia.webp",
+      "id": "2"
+    },
+    {
+      "commander": "Mishra, Eminent One",
+      "colors": [
+        "blue",
+        "black",
+        "red"
+      ],
+      "theme": "Retro Border Artifacts",
+      "nickname": "Mishra's Retro Artifactory",
+      "identity": "Grixis",
+      "playstyle": "This was my very first deck that I purchased as a precon. It has been through a lot of upgrades and changes, but ultimately is now a celebration of all things Brother's War and retro border cards. This deck looks to get Mishra out as soon as possible in order to copy noncreature artifacts for value. Whether it's copying a Sol Ring for extra mana or a Cursed Mirror in order to copy the best creature on the board. I also have a package of ping effects that everytime an artifact goes to the graveyard it hits everyone or a single target since Mishra sacrifices his token copies at the end of every endstep. This is a fully retro border deck with some other fun cards inculding Mishra's biggest rival and brother Urza.",
+      "image": "./mishra.webp",
+      "id": "3"
+    },
+    {
+      "commander": "Erinis, Gloom Stalker & Scion of Halaster",
+      "colors": [
+        "black",
+        "green"
+      ],
+      "theme": "Graveyard Landfall",
+      "nickname": "Life from the Loam",
+      "identity": "Golgari",
+      "playstyle": "My first experience with magic was through playing the Pauper format. My favorite deck that I still play is Golgari/Jund dredge. I love the card Life from the Loam and I wanted to create a deck around it. This deck wants as many lands in the graveyard as possible so Erinis can attack to bring the back and trigger all of my Landfall effects. I want to sacrifice and mill away my lands with many effects including the background commander Scion of Halaster and mass reanimate them with cards like Aftermath Analyst, World Shaper, and Splendid Reclemation. This deck generates a ton of mana and finishes through tokens, damage pings, and mass drain spells.",
+      "image": "./erinis.webp",
+      "id": "4"
+    },
+    {
+      "commander": "Huatli, Poet of Unity",
+      "colors": [
+        "white",
+        "red",
+        "green"
+      ],
+      "theme": "Dinosaurs",
+      "nickname": "Huatli, The Dino Poet",
+      "identity": "Naya",
+      "playstyle": "This is a somewhat straightforward dinosaur kindred deck. The only caveat being that my commander is Huatli, Poet of Unity // Roar of the Fifth People. I'm a big fan of creating thematic decks and Huatli is such a great character. I have included a few of her planeswalkers in this deck alongside some other cards that feature her in the art. I also just love double sided commanders. I want to slam dinos, flip Huatli, trigger her overrun effect, and win!",
+      "image": "./huatli.webp",
+      "id": "5"
+    },
+    {
+      "commander": "Taeko, the Patient Avalanche",
+      "colors": [
+        "blue",
+        "black"
+      ],
+      "theme": "Ninjas",
+      "nickname": "Hero on a Half Shell",
+      "identity": "Dimir",
+      "playstyle": "Ninjas! Taeko really caught my attetion when it was announced for jumpstart. I love the ninja archetype and this goes back to my roots in the Pauper format when I played mono-blue faerie ninjas! I love the ninjutsu mechanic, but the other dedicated ninja commanders like Yuriko and Satoru Umezawa are extremely oppressive or much better if you want to cheat in a Blightsteel Colossus. Taeko is a slow moving turtle that comes into play tapped. I want to ninjutsu unblockable creatures out of play in order to pump Taeko that can make themselves unblockable and swing in for commander damage.",
+      "image": "./taeko.webp",
+      "id": "6"
+    },
+    {
+        "commander": "Genku, Future Shaper",
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "theme": "Blink & Sacrifice",
+        "nickname": "Family Matters",
+        "identity": "Azorius",
+        "playstyle": "Genku is my first venture into the land of Azorius as a color pairing. I have been looking to build a new deck for a while now and this is the commander I landed on. Genku's unique wording makes it more than just a blink commander and cares about any permanent leaving the battlefield in any manner. I love the idea of a blink deck, but this also adds the ability to get value from any permanent that self sacrifices like Evolving Wilds or Seal of Cleansing. It also triggers when you play a bounce land or even crack a fetch land! I want to trigger Genku three times every turn if possible to make the whole family of unique tokens being a 2/2 White Fox with Vigilence, a 1/2 Blue Moonfolk with Flying, and a 1/1 Black Rat with Lifelink. This deck is still in progress and waiting to be put together in paper!",
+        "image": "./genku.jpg",
+        "id": "7"
+    }
+  ]

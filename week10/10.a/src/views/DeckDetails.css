@@ -1,0 +1,20 @@
+.deck-details {
+    margin: 0 auto;
+    max-width: 900px;
+}
+
+.detail-img {
+    max-width: 300px;
+    padding-top: 1rem;
+    display: block;
+    margin: 0 auto;
+}
+
+.detail-link {
+    color: antiquewhite;
+}
+
+.detail-commander {
+    padding-top: 1rem;
+    text-align: center;
+}

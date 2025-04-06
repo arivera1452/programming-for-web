@@ -1,0 +1,46 @@
+.commanderCard {
+    width: 100%;
+    max-width: 250px;
+    padding: 10px;
+    height: 500px;
+    border: 2px solid antiquewhite;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: relative;
+    background-color: rgb(158, 158, 158);
+}
+
+.cardImg img {
+    max-width: 200px;
+    width: 100%;
+    border-radius: 9px;
+}
+
+.cardTitle {
+    font-size: 18px;
+}
+
+.stripe {
+    height: 5px;
+    width: 100%;
+}
+
+.white {
+    background-color: antiquewhite;
+}
+.blue {
+    background-color: darkblue;
+}
+.black {
+    background-color: black;
+}
+.red {
+    background-color: red;
+}
+.green {
+    background-color: green;
+}
