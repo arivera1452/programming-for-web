@@ -1,0 +1,33 @@
+body {
+    margin: 8rem auto;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: lightgreen;
+}
+
+ul {
+    list-style: none;
+    display: inline-flex;
+}
+
+li {
+    margin: 0;
+    padding: 1rem;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-color: lightcoral;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+a:hover {
+    background-color: lightgreen;
+    background-size: 120%;
+    font-size: 120%;
+}
